@@ -1,89 +1,94 @@
-# Hi there, I'm Alwin Saji!  👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue? style=flat&logo=linkedin)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](your-portfolio-url)
-
-## 🚀 About Me
-
-I'm a passionate **[Your Role/Title]** with a keen interest in **[Your Interests]**. I love building innovative solutions and contributing to open-source projects. 
-
-- 🔭 I'm currently working on **[Current Project/Work]**
-- 🌱 I'm currently learning **[Technologies/Skills]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Something Interesting About You]**
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D? style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alwin-Saji&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin-Saji&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=FFD166&center=true&vCenter=true&width=600&height=70&lines=alwin.dev;builder+%C2%B7+student;design-obsessed+engineer" alt="typing-svg" />
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/? user=Alwin-Saji&theme=radical" alt="GitHub Streak"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=600&color=A0A0A0&center=false&vCenter=true&multiline=true&width=650&height=140&lines=%3E+B.Tech+CSE+(AI+%26+ML)+%40+College+of+Engineering+Chengannur%2C+Kerala;%3E+WebMaster+%E2%80%94+IEEE+SB+CEC;%3E+R%26D+Lead+%E2%80%94+PRODDEC;%3E+Technical+Team+%E2%80%94+GDG+on+Campus+CEC;%3E+Co-founder+%E2%80%94+OASIS;%3E+Opted+out+of+on-campus+placements" alt="whoami-typing" />
+
 </div>
 
-## 🏆 GitHub Trophies
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alwin-Saji&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+<img src="./assets/portrait-ascii.gif" alt="ascii portrait" width="640"/>
+
+<sub>rendered in ASCII from a single photo · noise settles into signal</sub>
+
 </div>
 
-## 📌 Pinned Projects
+<br>
 
-### [Project Name 1](link-to-project)
-Brief description of your project and what technologies you used.
+## ~/projects
 
-### [Project Name 2](link-to-project)
-Brief description of your project and what technologies you used.
+```bash
+alwin@cec:~/projects$ ls -la --sort-by=recent
+```
 
-### [Project Name 3](link-to-project)
-Brief description of your project and what technologies you used.
+| project | stack | status |
+|---|---|---|
+| **StudyMind** | LangChain · FastAPI · Next.js | RAG-based AI study assistant |
+| **Chrono Executive OS** | Vite · SQLite · Ollama (local AI) | Personal day planner with RAG chat, AI-generated study plans, adherence analytics |
+| **Mementos** | Supabase Realtime · Cloudflare R2 | Real-time event photo distribution, QR-slug mechanic |
+| **IEEE SB CEC Website** | — | Full site rebuild, cecieee.org |
+| **10D10T** | — | IEEE competition site — space theme, astronaut hero, dot-matrix countdown |
+| **Season of Code** | — | GDG event site — dot-matrix type, clip-path mouse-reveal |
+| **Portfolio** | React · Vite · TS · Tailwind · Framer Motion · GSAP | ASCII-art hero, scroll-driven SVG→QR animation → [alwinsaji.netlify.app](https://alwinsaji.netlify.app) |
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST: START -->
-- [Blog Post Title 1](link)
-- [Blog Post Title 2](link)
-- [Blog Post Title 3](link)
-<!-- BLOG-POST-LIST:END -->
+<br>
 
-## 🤝 Let's Connect! 
+## ~/skills
 
-I'm always interested in connecting with fellow developers and tech enthusiasts. Feel free to reach out if you want to collaborate on a project, discuss technology, or just chat! 
+```bash
+alwin@cec:~$ cat skills.json
+```
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 🐦 [Twitter](your-twitter-url)
-- 📧 [Email](mailto:your-email@example.com)
-- 🌐 [Portfolio](your-portfolio-url)
+```json
+{
+  "languages":   ["Python", "TypeScript"],
+  "frontend":    ["React", "Vite", "Tailwind", "Framer Motion", "GSAP"],
+  "backend":     ["FastAPI", "LangChain"],
+  "ml_ai":       ["scikit-learn", "PyTorch (learning)", "RAG pipelines"],
+  "currently_learning": ["DSA — NeetCode 150", "AI/ML — StatQuest / CampusX", "Docker", "SQL depth"]
+}
+```
 
----
+<br>
+
+## ~/contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alwin-Saji/Alwin-Saji/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alwin-Saji/Alwin-Saji/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Alwin-Saji/Alwin-Saji/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alwin-Saji&theme=github-dark&hide_border=true" alt="contribution graph" width="100%"/>
+
+<br>
+
+## ~/connect
+
+```bash
+alwin@cec:~$ contact --list
+```
+
+```
+> portfolio   alwinsaji.netlify.app
+> email       your.email@example.com
+> github      github.com/Alwin-Saji
+> linkedin    linkedin.com/in/YOUR_LINKEDIN_HANDLE
+```
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alwin-Saji&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
 
-<div align="center">
-  ⭐️ From [Alwin-Saji](https://github.com/Alwin-Saji)
+```
+$ echo "designed before built, always."
+```
+
 </div>
