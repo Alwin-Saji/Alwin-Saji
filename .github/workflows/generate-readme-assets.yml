@@ -26,7 +26,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Alwin-Saji
-          output_path: assets/trophy.svg
+          file: assets/trophy.svg
           theme: onedark
           token: ${{ secrets.TROPHY_TOKEN }}
 
