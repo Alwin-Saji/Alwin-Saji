@@ -46,7 +46,7 @@ jobs:
           GITHUB_TOKEN1: ${{ secrets.TROPHY_TOKEN }}
         run: |
           deno run --allow-net --allow-env --allow-read --allow-write \
-            ./render_svg.ts Alwin-Saji ../assets onedark
+            ./render_svg.ts Alwin-Saji ../assets/trophy.svg onedark
 
       - name: push generated svgs to output branch
         uses: crazy-max/ghaction-github-pages@v4
