@@ -43,7 +43,7 @@ jobs:
       - name: generate trophy svg
         working-directory: trophy-src
         env:
-          GITHUB_TOKEN: ${{ secrets.TROPHY_TOKEN }}
+          GITHUB_TOKEN1: ${{ secrets.TROPHY_TOKEN }}
         run: |
           deno run --allow-net --allow-env --allow-read --allow-write \
             ./render_svg.ts Alwin-Saji ../assets onedark
