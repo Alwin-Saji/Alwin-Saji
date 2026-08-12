@@ -28,7 +28,7 @@ jobs:
           username: Alwin-Saji
           output_path: assets/trophy.svg
           theme: onedark
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: push generated svgs to output branch
         uses: crazy-max/ghaction-github-pages@v4
