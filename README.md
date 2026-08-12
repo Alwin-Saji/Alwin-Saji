@@ -24,7 +24,7 @@
 
 <br>
 
-## ~/projects
+<img src="./assets/headers/header-projects.png" alt="~/projects" height="40"/>
 
 ```bash
 alwin@cec:~/projects$ ls -la --sort-by=recent
@@ -42,7 +42,7 @@ alwin@cec:~/projects$ ls -la --sort-by=recent
 
 <br>
 
-## ~/skills
+<img src="./assets/headers/header-skills.png" alt="~/skills" height="40"/>
 
 ```bash
 alwin@cec:~$ cat skills.json
@@ -60,7 +60,34 @@ alwin@cec:~$ cat skills.json
 
 <br>
 
-## ~/contributions
+<img src="./assets/headers/header-stats.png" alt="~/stats" height="40"/>
+
+```bash
+alwin@cec:~$ gh stats --user Alwin-Saji
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alwin-Saji&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F0F0F&title_color=FFD166&icon_color=FFD166&text_color=C9C9C9" alt="github stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin-Saji&layout=compact&theme=github_dark&hide_border=true&bg_color=0F0F0F&title_color=FFD166&text_color=C9C9C9" alt="top langs" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Alwin-Saji&theme=github-dark-blue&hide_border=true&background=0F0F0F&ring=FFD166&fire=FFD166&currStreakLabel=FFD166" alt="streak stats" width="100%"/>
+
+</div>
+
+<br>
+
+<img src="./assets/headers/header-trophies.png" alt="~/trophies" height="40"/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alwin-Saji&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" width="100%"/>
+
+</div>
+
+<br>
+
+<img src="./assets/headers/header-contributions.png" alt="~/contributions" height="40"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alwin-Saji/Alwin-Saji/output/github-contribution-grid-snake-dark.svg" />
@@ -72,11 +99,13 @@ alwin@cec:~$ cat skills.json
 
 <br>
 
-## ~/connect
+<img src="./assets/headers/header-connect.png" alt="~/connect" height="40"/>
 
 ```bash
 alwin@cec:~$ contact --list
 ```
+
+<img src="https://komarev.com/ghpvc/?username=Alwin-Saji&color=FFD166&style=flat&label=profile+views" alt="visitor count"/>
 
 ```
 > portfolio   alwinsaji.netlify.app
