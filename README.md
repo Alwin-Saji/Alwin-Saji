@@ -81,7 +81,7 @@ alwin@cec:~$ gh stats --user Alwin-Saji
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Alwin-Saji&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" width="100%"/>
+<img src="https://raw.githubusercontent.com/Alwin-Saji/Alwin-Saji/output/trophy.svg" alt="trophies" width="100%"/>
 
 </div>
 
