@@ -109,9 +109,9 @@ alwin@cec:~$ contact --list
 
 ```
 > portfolio   alwinsaji.netlify.app
-> email       your.email@example.com
+> email       alwinsaji4.cgnr@gmail.com
 > github      github.com/Alwin-Saji
-> linkedin    linkedin.com/in/YOUR_LINKEDIN_HANDLE
+> linkedin    linkedin.com/in/alwin-saji
 ```
 
 <div align="center">
