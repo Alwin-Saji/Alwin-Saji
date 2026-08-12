@@ -22,6 +22,9 @@ jobs:
             assets/github-contribution-grid-snake-dark.svg?color_snake=%23FFD166&color_dots=%23161B22,%230e4429,%23006d32,%2326a641,%2339d353&color_dots_border=%230F0F0F
             assets/github-contribution-grid-snake.svg?color_snake=%23FFD166&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
 
+      - name: ensure assets directory exists
+        run: mkdir -p assets
+
       - name: generate trophy svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
