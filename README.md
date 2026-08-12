@@ -68,8 +68,8 @@ alwin@cec:~$ gh stats --user Alwin-Saji
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alwin-Saji&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F0F0F&title_color=FFD166&icon_color=FFD166&text_color=C9C9C9" alt="github stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin-Saji&layout=compact&theme=github_dark&hide_border=true&bg_color=0F0F0F&title_color=FFD166&text_color=C9C9C9" alt="top langs" height="165"/>
+<img src="https://github-readme-stats-gray-chi-24.vercel.app/api?username=Alwin-Saji&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F0F0F&title_color=FFD166&icon_color=FFD166&text_color=C9C9C9" alt="github stats" height="165"/>
+<img src="https://github-readme-stats-gray-chi-24.vercel.app/api/top-langs/?username=Alwin-Saji&layout=compact&theme=github_dark&hide_border=true&bg_color=0F0F0F&title_color=FFD166&text_color=C9C9C9" alt="top langs" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Alwin-Saji&theme=github-dark-blue&hide_border=true&background=0F0F0F&ring=FFD166&fire=FFD166&currStreakLabel=FFD166" alt="streak stats" width="100%"/>
 
