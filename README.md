@@ -18,7 +18,7 @@
 
 <img src="./assets/portrait-ascii.gif" alt="ascii portrait" width="640"/>
 
-<sub>rendered in ASCII from a single photo · noise settles into signal</sub>
+<!-- <sub>rendered in ASCII from a single photo · noise settles into signal</sub> -->
 
 </div>
 
